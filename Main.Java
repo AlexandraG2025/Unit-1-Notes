@@ -9,6 +9,8 @@ public class Main{
 
 //this is the main method (like a function)
 public static void main(String []args) {
+// statment below tells java to print the TERMINAL
+// semicolon; indicates the end of the statment 
 System.out.println("Hello world");
 {
 {
